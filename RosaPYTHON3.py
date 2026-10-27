@@ -9,6 +9,12 @@ scndstr = 'population'
 print(frststr[:4] + scndstr[4:])
 
 #Problem solution
-probstr = str(input('Enter a string: '))
-a, b, c, d = map(int, input('Enter an integers: ').split())
-print(probstr[a:b+1], probstr[c:d+1])
+#Opening file and splitting the dataset into string and integers
+with open("Datasets/rosalind_ini3(1).txt", "r") as f:
+    dataset = f.read().strip()
+    string, integers = dataset.splitlines()
+
+a, b, c, d = map(int, integers.split())
+with open("Datasets/Outputs/output3.txt", "w") as output:
+    print(string[a:b + 1] + " " + string[c:d + 1], file=output)
+

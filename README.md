@@ -1,8 +1,31 @@
-# Bioinformatics Journey
+# Bioinformatics Practice 🧬
 
-Hello! This repository tracks my progress in coding and bioinformatics.
+Tracking my progress in Python and computational biology algorithms via [Rosalind](https://rosalind.info).
 
-### About Me
-- **Status:** Sophomore Biotechnology student at Satbayev University
-- **Date Started:** 24.10.2026
-- **Current Goals:** Improving Python skills, learning bioinformatics algorithms on Rosalind, and studying English (A2 → B1).
+* **Author:** Sophomore Biotechnology Student at Satbayev University
+* **Stack:** Python 3, Git (Conventional Commits)
+
+---
+
+## Progress
+
+### ✅ Python Village (`6/6`)
+- [x] **INI1:** Installing Python
+- [x] **INI2:** Variables and Some Arithmetic
+- [x] **INI3:** Strings and Lists
+- [x] **INI4:** Conditions and Loops
+- [x] **INI5:** Working with Files
+- [x] **INI6:** Dictionaries
+
+### 🚀 Bioinformatics Stronghold (`In Progress`)
+- [ ] **DNA:** Counting DNA Nucleotides
+- [ ] **RNA:** Transcribing DNA into RNA
+- [ ] **REVC:** Complementing a Strand of DNA
+- [ ] **FIB:** Rabbits and Recurrence Relations
+- [ ] **GC:** Computing GC Content
+
+---
+
+## Structure
+* `Rosalind-Python-Village/` — introductory Python solutions & datasets
+* `Rosalind-Bioinformatics-Stronghold/` — core biological algorithms

@@ -18,8 +18,8 @@ Tracking my progress in Python and computational biology algorithms via [Rosalin
 - [x] **INI6:** Dictionaries
 
 ### 🚀 Bioinformatics Stronghold (`In Progress`)
-- [ ] **DNA:** Counting DNA Nucleotides
-- [ ] **RNA:** Transcribing DNA into RNA
+- [x] **DNA:** Counting DNA Nucleotides
+- [x] **RNA:** Transcribing DNA into RNA
 - [ ] **REVC:** Complementing a Strand of DNA
 - [ ] **FIB:** Rabbits and Recurrence Relations
 - [ ] **GC:** Computing GC Content
